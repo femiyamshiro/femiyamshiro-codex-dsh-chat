@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex ↔ DSH Chat"
+  short_description: "Message selected Codex and DSH conversations"
+  default_prompt: "Use $codex-dsh-chat to send a message between my selected Codex and DSH conversations and verify the reply."
